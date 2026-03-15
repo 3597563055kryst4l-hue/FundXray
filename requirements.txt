@@ -1,0 +1,17 @@
+# FundXray - 基金透视仪依赖
+
+# 数据处理
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 基金数据接口
+akshare>=1.10.0
+
+# Yahoo Finance 数据接口
+yfinance>=0.2.28
+
+# HTTP请求
+requests>=2.28.0
+
+# 可视化
+matplotlib>=3.7.0
